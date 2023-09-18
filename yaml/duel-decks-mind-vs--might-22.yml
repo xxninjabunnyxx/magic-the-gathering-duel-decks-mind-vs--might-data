@@ -1,0 +1,111 @@
+---
+object: card
+id: b3d8dd05-5d0b-406f-a59a-9066079fed26
+oracle_id: 81f06f84-1580-43c0-89d5-08d34541a519
+multiverse_ids:
+- 426594
+tcgplayer_id: 129362
+cardmarket_id: 296213
+name: Goblin Electromancer
+lang: en
+released_at: '2017-03-31'
+uri: https://api.scryfall.com/cards/b3d8dd05-5d0b-406f-a59a-9066079fed26
+scryfall_uri: https://scryfall.com/card/dds/22/goblin-electromancer?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.jpg?1592761638
+  normal: https://cards.scryfall.io/normal/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.jpg?1592761638
+  large: https://cards.scryfall.io/large/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.jpg?1592761638
+  png: https://cards.scryfall.io/png/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.png?1592761638
+  art_crop: https://cards.scryfall.io/art_crop/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.jpg?1592761638
+  border_crop: https://cards.scryfall.io/border_crop/front/b/3/b3d8dd05-5d0b-406f-a59a-9066079fed26.jpg?1592761638
+mana_cost: "{U}{R}"
+cmc: 2.0
+type_line: Creature — Goblin Wizard
+oracle_text: Instant and sorcery spells you cast cost {1} less to cast.
+power: '2'
+toughness: '2'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 758fe4d1-ce2b-4106-8cec-820841d730af
+set: dds
+set_name: 'Duel Decks: Mind vs. Might'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/758fe4d1-ce2b-4106-8cec-820841d730af
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adds&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dds?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b3d8dd05-5d0b-406f-a59a-9066079fed26/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A81f06f84-1580-43c0-89d5-08d34541a519&unique=prints
+collector_number: '22'
+digital: false
+rarity: common
+flavor_text: When asked how much power is required, Izzet mages always answer "more."
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: 725b112d-2637-45c1-aec8-e89981ba5fa3
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 689
+penny_rank: 1280
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426594
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Electromancer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Electromancer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Electromancer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129362?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Electromancer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Electromancer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
